@@ -1,0 +1,137 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+img{    width: 100%;
+    height: auto;}
+h1{
+    color:black;
+    vertical-align: middle;
+    text-align: center;
+    justify-content: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 150px;
+    font-weight: 900;
+}
+h2{
+    color:black;
+    vertical-align: middle;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    margin-bottom:32px;
+    font-size: 50px;
+    margin-left: 93px;
+
+}
+.about-us{
+    color:rgb(185, 24, 166);
+   
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 31px;
+    vertical-align: middle;
+    padding-left: 12%;
+    padding-bottom: 17%;
+    
+}
+Classic-Nutella{
+    margin-top: 200px;
+}
+.facebook{
+    width:10%;
+}
+.twitter{
+    width:10%;  
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 331px;;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+  
+  .price {
+    color: grey;
+    font-size: 22px;
+  }
+  
+  .card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .card button:hover {
+    opacity: 0.7;
+  }
+  .crepe-sucree{
+    background-color: #cdedfd;
+    background-image: linear-gradient(319deg, #cdedfd 0%, #ffec82 37%, #ffcfd2 100%);
+    
+  }
+  /* .btn{
+      display: flex;
+  } */
+
+  .btns{
+    display: flex;
+    justify-content: space-between;
+  }
+  .first-3{
+      display: flex;
+      width: 40%;
+  }
+  .btn-warning {
+    margin-left: 13%;
+    margin-right: 13%;
+    width: 76%;
+  }
+  .btn-outline-success-1{
+    margin-left: 13%;
+    margin-right: 13%;
+    width: 76%;   
+  }
+  .btn-outline-danger{
+    margin-left: 13%;
+    margin-right: 13%;
+    width: 76%;    
+  }
+  .border-danger{
+    font-size: 69px; 
+    margin-left: 41%;
+ 
+  }
+  .logo{
+    width: 10%;
+    height: 50px;
+  }
+ #logo{
+   width: 50px;
+ }
+ .navbar-nav {
+  display: -ms-flexbox;
+  display: flex;
+  flex-direction: revert;
+  align-items: baseline;
+  flex-direction: column;
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+}
+.navbar-expand-lg{
+  padding: 0;
+}
+.border-danger{
+  margin-top: 30px;
+}
